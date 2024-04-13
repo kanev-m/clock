@@ -109,7 +109,7 @@ btn.place(x=190, y=0)
 
 # кнопка для отображения времени в Нью-Йорке
 btn = tkinter.Button(window,
-                     text='New-Yorke',
+                     text='New-York',
                      command=newyork,
                      activebackground='#A9A9A9')
 btn.place(x=233, y=0)
